@@ -1,0 +1,84 @@
+/*googleMaps and autoComplete*/
+/*googlemaps*/
+.GMap {
+    height: 100%;
+    position: absolute;
+    width: 50%;
+    right: 2%;
+    position: absolute;
+}
+.soloMap {
+    height: 350px;
+    width: 100%;
+    right: 2%;
+}
+.solo-canvas {
+    width: 100%;
+    height: 100%;
+}
+.GMap-canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#legend {
+    text-align: center;
+    border-radius: 3px;
+    font-family: Roboto, sans-serif;
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #90A4AE;
+    z-index: 25;
+}
+#legend div {
+    font-family: Roboto;
+    color: #90A4AE;
+}
+#legend h3 {
+    margin-top: 0;
+}
+#legend h6 {
+    font-size: 14px
+    font-family: Roboto;
+    color: #90A4AE;
+}
+#legend img {
+    vertical-align: middle;
+}
+/*gecoding auto complete*/
+
+.placesContainer{
+    margin-top: 20px;
+    width: 250px;
+    height: 37px;
+}
+.placesAuto {
+    position: absolute;
+    z-index: 10;
+    width: 250px;
+}
+.autoCompleteForm, .autoCompleteForm:focus {
+    font-family: roboto;
+    width: 255px;
+    color: rgb(144, 164, 174);
+    border: 0;
+    border-bottom: 1px solid #E0E0E0;
+    outline:none;
+}
+.autocomplete-container div{
+    color: rgb(144, 164, 174);
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: rgb(144, 164, 174);
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: rgb(144, 164, 174);
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: rgb(144, 164, 174);
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: rgb(144, 164, 174);
+}
+/*end gecoding auto complete*/

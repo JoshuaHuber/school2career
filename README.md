@@ -1,41 +1,13 @@
-# C2.17_college_guidance
 
-#### Senior Devs
-- Josh H
-- Donald T
-- Erik N
+School 2 Career is a college finder that allows you to search for colleges based on a series of filters. From either a list or directly from the google map, schools can be selected to pull up a page dedicated to just that school. This provides more in depth information about an individual school.
+
+Developers:
+--------------------
+
+- Josh Huber
+- Donald Tran
+- Erik Nuber
 - Joseph T
-
-#### Junior Devs
-- David S
-- Alex K
-- Jack R
-- Paul V
-- Insoo L
-- John K
-
-#### Producer
-- Greg S
-
-#### Project Manager
-- Tim H
-
-
-Summary
---------------------
-
-The application is a college finder that allows you to search for colleges based on a series of filters. From either a list or directly from the google map, schools can be selected to pull up a page dedicated to just that school. This provides more in depth information about an individual school.
-
-Feature List
---------------------
-
-• Filter schools by location, major, type of degree, school type, and/or tuition.
-
-• See schools in list format, as well as on a Google map.
-
-• Google map repopulates schools when dragged or on zoom level change.
-
-• All schools have a dedicated page that show more in-depth information.
 
 Technologies
 --------------------
